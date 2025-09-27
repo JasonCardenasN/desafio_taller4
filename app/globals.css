@@ -4,10 +4,10 @@ body {
   font-family: Arial, sans-serif;
   background: #f7f7f7;
   color: #333;
-  height: 100vh; /* importante */
+  height: 100vh;
   display: flex;
-  justify-content: center; /* centra horizontal */
-  align-items: center;    /* centra vertical */
+  justify-content: center; 
+  align-items: center;    
 }
 
 .container {
