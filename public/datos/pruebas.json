@@ -1,0 +1,25 @@
+{
+  "pageTitle": "Mis Pruebas",
+  "tests": [
+    {
+      "subjectId": "BAIN083-24",
+      "subjectName": "Cálculo en varias variables",
+      "testDate": "2025-09-30 17:30:00"
+    },
+    {
+      "subjectId": "BAIN081-24",
+      "subjectName": "ecuaciones diferenciales para ingeniería",
+      "testDate": "2025-10-24 17:30:00"
+    },
+    {
+      "subjectId": "BAIN085-14",
+      "subjectName": "Física: ondas y electromagnetismo",
+      "testDate": "2025-10-23 17:30:00"
+    },
+    {
+      "subjectId": "BAIN073-14",
+      "subjectName": "Álgebra Lineal para Ingeniería",
+      "testDate": "2025-11-20 14:00:00"
+    }
+  ]
+}
